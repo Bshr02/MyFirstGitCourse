@@ -1,1 +1,3 @@
 # MyFirstGitCourse
+
+## Project Notes
